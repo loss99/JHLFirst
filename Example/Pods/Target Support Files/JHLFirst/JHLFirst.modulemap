@@ -1,0 +1,6 @@
+framework module JHLFirst {
+  umbrella header "JHLFirst-umbrella.h"
+
+  export *
+  module * { export * }
+}
